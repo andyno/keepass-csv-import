@@ -1,0 +1,5 @@
+target
+.idea
+*.kdbx
+.DS_Store
+*.iml
